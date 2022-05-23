@@ -1,6 +1,6 @@
 # %% [markdown]
 # """"
-# Você foi contratado pelo Magazine Luiza para desenvolver um sistema que irá auxiliá-los a escolher os produtos que irão
+# Você foi contratado para desenvolver um sistema que irá auxiliá-los a escolher os produtos que irão
 # receber desconto na próxima Black Friday.
 #
 # Para isso, você terá acesso a uma API que fornece alguns dados dos produtos: um ID (identificador único), o preço e a
